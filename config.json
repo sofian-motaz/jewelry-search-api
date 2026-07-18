@@ -1,0 +1,11 @@
+{
+  "model_name": "google/siglip2-so400m-patch14-384",
+  "embedding_dim": 1152,
+  "batch_size": 32,
+  "device": "cuda",
+  "gpu_name": "Tesla T4",
+  "images_root": "/content/drive/MyDrive/Catalogue",
+  "save_every": 500,
+  "topk_rerank_pool": 50,
+  "updated": "2026-07-15T11:00:53.995150"
+}

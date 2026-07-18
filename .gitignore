@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Model cache
+.cache/
+huggingface/
+
+# Data artifacts
+data/*.db
+data/*.faiss
+data/*.json
+data/*.log
+*.db
+*.faiss
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Environment
+.env
